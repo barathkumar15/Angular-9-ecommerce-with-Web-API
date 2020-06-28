@@ -6,7 +6,7 @@ Step 2 : In WebApi you need to setup your local connection configuration file na
 
 Step 3 : Sqlquery.sql are enclosed here. create a Database ecommerce. create tabel. insert bulk data for product-list
           
-note: WebApi checking tool postman 
+note: WebApi checking tool postman.
 
 
  
