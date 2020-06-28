@@ -1,0 +1,65 @@
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Models\obj\Debug\HRMS.DataModel.csproj.CoreCompileInputs.cache
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Models\bin\Debug\HRMS.DataModel.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Models\bin\Debug\HRMS.DataModel.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Models\obj\Debug\HRMS.DataModel.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Models\obj\Debug\HRMS.DataModel.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csproj.CoreCompileInputs.cache
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\main project\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\main project\SpaceAnalysis\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\main project\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+D:\main project\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\main project\SpaceAnalysis\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\coder talent project\shopping\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+D:\coder talent project\shopping\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\coder talent project\shopping\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb
+D:\coder talent project\shopping\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\shopping\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\WebApi\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\WebApi\DataAccess\HRMS.DataModel\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\WebApi\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.csprojAssemblyReference.cache
+D:\coder talent project\WebApi\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.dll
+D:\coder talent project\WebApi\DataAccess\HRMS.DataModel\obj\Debug\HRMS.DataModel.pdb

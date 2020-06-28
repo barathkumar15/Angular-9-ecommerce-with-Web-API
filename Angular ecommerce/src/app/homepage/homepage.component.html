@@ -1,0 +1,36 @@
+
+<table >
+  <thead></thead>
+  <tbody>
+    <br><br><br>
+    <div class="row">
+    <tr *ngFor= "let list of locallyStoring | filter:SearchTab; let m= index">
+
+  <br><br>
+<div col-md-6 style="padding-left: 50px;">
+
+  <mat-card class="example-card" >
+  {{SearchTab}}
+
+  <img mat-card-image [src]="list.ImageUrl" (click)="OpenPopup(list)">
+
+  <mat-card-content>
+   <h5 style="color: rgb(182, 81, 9);">{{list.Product_name}}</h5>
+   <h5 style="color: black;">
+{{list.Product_description}}</h5>
+    <h5 ><b>Rs.{{list.Amount}}</b></h5>
+  </mat-card-content>
+</mat-card>
+</div>
+
+
+<div *ngIf="m%3==0">
+<br><br><br><br><br><br><br><br><br><br>
+</div>
+</tr>
+</div>
+</tbody>
+</table>
+
+
+

@@ -1,0 +1,32 @@
+{{data.v}}
+
+<a class="btn btn btn-sm btn-danger pull-right " id ="closeicon"(click)="dailogclosebutton()"> X </a>
+<div class="row">
+    <div class="column">
+<div class="col-md-4">
+<img [src]="this.data.selectedBookingNo.ImageUrl" height="350px" width="300px"></div>
+</div>
+<div class="col-md-4">
+    <h4>Product Details</h4>
+<p>
+Regular Fit <br>
+Machine wash cold <br>
+65% cotton, 35% polyester <br>
+Product Code: 441024410001 <br>
+MRP: Rs.{{this.data.selectedBookingNo.Amount}} inclusive of all taxes
+(MRP changes as per size selection)<br>
+Marketed By: RELIANCE<br>
+Net Qty: 1N<br>
+Manufactured By: RELIANCE<br>
+Country Of Origin: INDIA<br>
+Customer Care Address: AJIO, c/o Reliance Retail Limited, SS Plaza, 74/2 Outer Ring Road, 29th Main Road, BTM 1st Stage, BTM Layout, Bangalore 560068, Karnataka, INDIA. Ph. 1800-889-9991, 1800-419-8998. E-mail - customercare@ajio.com<br>
+Commodity: Men's Tshirts</p>
+<section>
+  <div class="button-row">
+
+    <button mat-raised-button color="accent" (click)="OnAddCart()">Add Cart</button>
+    <button mat-raised-button color="warn" (click)="OnbuyNow()">Buy Now</button>
+  </div>
+</section>
+</div>
+</div>

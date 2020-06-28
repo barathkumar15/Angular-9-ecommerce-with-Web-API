@@ -1,0 +1,885 @@
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\Unity.Container.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CoreCompileInputs.cache
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Container.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\Users\51070\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Api.dll.config
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Api.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Api.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csc.exe
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csc.exe.config
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csc.rsp
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csi.exe
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\csi.rsp
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\vbc.exe
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\vbc.rsp
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Business.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.DataModel.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IRepository.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Repository.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Abstractions.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Container.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Common.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Business.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Repository.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\Unity.Container.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\bin\HRMS.Common.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+C:\Users\smart\Downloads\HRMS (sample)\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\ksl media\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll.config
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.rsp
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.exe
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.rsp
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.rsp
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\main project\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\main project\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\main project\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\main project\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Api.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csc.rsp
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\csi.rsp
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\vbc.rsp
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\System.Web.Cors.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Business.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\Unity.Container.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\bin\HRMS.Common.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.rsp
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.rsp
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.rsp
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Cors.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll.config
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe.config
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.rsp
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.exe
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.rsp
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.rsp
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Cors.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Cors.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Cors.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\coder talent project\shopping\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\System.Web.Cors.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\Unity.Container.dll
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\coder talent project\shopping\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\coder talent project\shopping\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+D:\coder talent project\shopping\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\coder talent project\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\coder talent project\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\coder talent project\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\coder talent project\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\System.Web.Cors.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\Unity.Container.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Common.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\bin\HRMS.Common.pdb
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\coder talent project\New folder\shopping\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.Api.dll.config
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.Api.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.Api.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\csc.exe
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\csc.exe.config
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\csc.rsp
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\csi.exe
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\csi.rsp
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\System.AppContext.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\vbc.exe
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\vbc.exe.config
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\vbc.rsp
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.Business.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.DataModel.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.IBusiness.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.IRepository.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.Repository.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\Newtonsoft.Json.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\System.Web.Cors.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\System.Web.Http.Cors.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\Unity.Abstractions.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\Unity.Container.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.Business.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.IBusiness.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.DataModel.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.IRepository.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\HRMS.Repository.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\System.Web.Http.Cors.xml
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\Unity.Abstractions.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\bin\Unity.Container.pdb
+D:\coder talent project\WebApi\Api\HRMS.Api\obj\Debug\HRMS.Api.csprojAssemblyReference.cache
+D:\coder talent project\WebApi\Api\HRMS.Api\obj\Debug\HRMS.Api.csproj.CopyComplete
+D:\coder talent project\WebApi\Api\HRMS.Api\obj\Debug\HRMS.Api.dll
+D:\coder talent project\WebApi\Api\HRMS.Api\obj\Debug\HRMS.Api.pdb

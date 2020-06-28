@@ -1,0 +1,161 @@
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CoreCompileInputs.cache
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\Sourcecode\HRMS\Dev\HRMS\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\Users\51070\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+C:\Users\smart\Downloads\HRMS (sample)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\ksl media\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\main project\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\Users\51070\Downloads\SpaceAnalysis\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+C:\Users\51068\Downloads\SpaceAnalysis(working) (1)\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\coder talent project\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\coder talent project\New folder\shopping\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csprojAssemblyReference.cache
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.dll
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.pdb
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.dll
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\bin\Debug\HRMS.Repository.pdb
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.dll
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\bin\Debug\HRMS.IRepository.pdb
+D:\coder talent project\WebApi\DataAccess\HRMS.Repository\obj\Debug\HRMS.Repository.csproj.CopyComplete

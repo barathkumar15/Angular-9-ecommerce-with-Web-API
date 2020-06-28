@@ -1,0 +1,20 @@
+
+<nav class="navbar navbar-expand-lg navbar-light bg-lignt fixed-top" id="mainNav" style="padding-left:25px; margin-bottom: 0px; background-color: #285399;">
+
+    <div class="collapse navbar-collapse" id="navbarResponsive" style="float: left;">
+ <div style="color: antiquewhite;">
+     <span>E-SHOPPING</span>
+     <a [routerLink]="['/homepage']"> <img src="/assets/img/favorite-cart.png" height=50px width="50px" alt=""></a>
+</div>
+<span style="float: right;">
+<div class="input-group ">
+    <div class="input-group-prepend">
+      <div class="input-group-text"><i class="fa fa-search "></i>
+      </div>
+
+      <input class="form-control" type="text" name="search" [(ngModel)]="SearchTab" (change)="searchrouting(SearchTab)" autocomplete="off" placeholder="search">
+
+  </div></div></span>
+  </div>
+  </nav>
+  <app-homepage [SearchTab]="SearchTab"></app-homepage>

@@ -1,0 +1,105 @@
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CoreCompileInputs.cache
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\Users\51070\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+C:\Users\smart\Downloads\HRMS (sample)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\ksl media\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\Users\51070\Downloads\SpaceAnalysis (1)\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\main project\SpaceAnalysis\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+C:\Users\51071\Downloads\SpaceAnalysis (1)\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\coder talent project\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\coder talent project\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\coder talent project\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\coder talent project\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\coder talent project\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\coder talent project\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\coder talent project\New folder\shopping\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.dll
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\bin\Debug\HRMS.IBusiness.pdb
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.dll
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\bin\Debug\HRMS.DataModel.pdb
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csprojAssemblyReference.cache
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.csproj.CopyComplete
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.dll
+D:\coder talent project\WebApi\Business\HRMS.IBusiness\obj\Debug\HRMS.IBusiness.pdb

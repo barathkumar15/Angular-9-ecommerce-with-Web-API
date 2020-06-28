@@ -1,0 +1,42 @@
+D:\Sourcecode\HRMS\Dev\HRMS\Common\HRMS.Common\bin\Debug\HRMS.Common.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Common\HRMS.Common\bin\Debug\HRMS.Common.pdb
+D:\Sourcecode\HRMS\Dev\HRMS\Common\HRMS.Common\obj\Debug\HRMS.Common.Resources.CommonMessages.resources
+D:\Sourcecode\HRMS\Dev\HRMS\Common\HRMS.Common\obj\Debug\HRMS.Common.csproj.GenerateResource.cache
+D:\Sourcecode\HRMS\Dev\HRMS\Common\HRMS.Common\obj\Debug\HRMS.Common.csproj.CoreCompileInputs.cache
+D:\Sourcecode\HRMS\Dev\HRMS\Common\HRMS.Common\obj\Debug\HRMS.Common.dll
+D:\Sourcecode\HRMS\Dev\HRMS\Common\HRMS.Common\obj\Debug\HRMS.Common.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Common\HRMS.Common\bin\Debug\HRMS.Common.dll
+C:\Users\smart\Downloads\HRMS (sample)\Common\HRMS.Common\bin\Debug\HRMS.Common.pdb
+C:\Users\smart\Downloads\HRMS (sample)\Common\HRMS.Common\obj\Debug\HRMS.Common.csprojAssemblyReference.cache
+C:\Users\smart\Downloads\HRMS (sample)\Common\HRMS.Common\obj\Debug\HRMS.Common.Resources.CommonMessages.resources
+C:\Users\smart\Downloads\HRMS (sample)\Common\HRMS.Common\obj\Debug\HRMS.Common.csproj.GenerateResource.cache
+C:\Users\smart\Downloads\HRMS (sample)\Common\HRMS.Common\obj\Debug\HRMS.Common.dll
+C:\Users\smart\Downloads\HRMS (sample)\Common\HRMS.Common\obj\Debug\HRMS.Common.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Common\HRMS.Common\bin\Debug\HRMS.Common.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Common\HRMS.Common\bin\Debug\HRMS.Common.pdb
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Common\HRMS.Common\obj\Debug\HRMS.Common.csprojAssemblyReference.cache
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Common\HRMS.Common\obj\Debug\HRMS.Common.Resources.CommonMessages.resources
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Common\HRMS.Common\obj\Debug\HRMS.Common.csproj.GenerateResource.cache
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Common\HRMS.Common\obj\Debug\HRMS.Common.dll
+C:\Users\51071\Downloads\SpaceAnalysis\SpaceAnalysis\Common\HRMS.Common\obj\Debug\HRMS.Common.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Common\HRMS.Common\bin\Debug\HRMS.Common.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Common\HRMS.Common\bin\Debug\HRMS.Common.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.Resources.CommonMessages.resources
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.csproj.GenerateResource.cache
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.dll
+D:\venky ksl\OneDrive_1_3-24-2020\SpaceAnalysis(working)14.3.20\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Common\HRMS.Common\bin\Debug\HRMS.Common.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Common\HRMS.Common\bin\Debug\HRMS.Common.pdb
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.csprojAssemblyReference.cache
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.Resources.CommonMessages.resources
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.csproj.GenerateResource.cache
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.dll
+D:\venky ksl\OneDrive_1_3-24-2020\space model attachment\SpaceAnalysis(working)\Common\HRMS.Common\obj\Debug\HRMS.Common.pdb
+D:\coder talent project\shopping\Common\HRMS.Common\bin\Debug\HRMS.Common.dll
+D:\coder talent project\shopping\Common\HRMS.Common\bin\Debug\HRMS.Common.pdb
+D:\coder talent project\shopping\Common\HRMS.Common\obj\Debug\HRMS.Common.csprojAssemblyReference.cache
+D:\coder talent project\shopping\Common\HRMS.Common\obj\Debug\HRMS.Common.Resources.CommonMessages.resources
+D:\coder talent project\shopping\Common\HRMS.Common\obj\Debug\HRMS.Common.csproj.GenerateResource.cache
+D:\coder talent project\shopping\Common\HRMS.Common\obj\Debug\HRMS.Common.dll
+D:\coder talent project\shopping\Common\HRMS.Common\obj\Debug\HRMS.Common.pdb

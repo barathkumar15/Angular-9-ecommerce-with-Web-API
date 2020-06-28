@@ -1,0 +1,15 @@
+.example-card {
+    max-width: 300px;
+    max-height: 300px;
+  }
+
+h5{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 12px;
+}section {
+  display: table;
+  margin: 8px;
+}

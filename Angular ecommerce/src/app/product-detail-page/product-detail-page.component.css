@@ -1,0 +1,7 @@
+.button-row {
+  display: table-cell;
+}
+section {
+  display: table;
+  margin: 8px;
+}
